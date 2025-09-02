@@ -64,6 +64,8 @@ namespace Part__02_Inheritance
             //Result = dbContext.Employees.Any(E => E.Age != null);
             //Console.WriteLine(Result); 
             #endregion
+
+
             #region Example 02
             //var Employee = dbContext.Employees.FirstOrDefault();
             // if(Employee is not null)
