@@ -5,6 +5,8 @@ VisualStudioVersion = 17.14.36327.8 d17.14
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Part  02 Inheritance", "Part  02 Inheritance.csproj", "{1DF73CFA-F49B-45D4-9FEB-D4547AFFD5B1}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DataBaseFirst", "..\DataBaseFirst\DataBaseFirst.csproj", "{0119CE52-6211-4762-8FFD-9CED43E6D828}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +17,10 @@ Global
 		{1DF73CFA-F49B-45D4-9FEB-D4547AFFD5B1}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{1DF73CFA-F49B-45D4-9FEB-D4547AFFD5B1}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{1DF73CFA-F49B-45D4-9FEB-D4547AFFD5B1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0119CE52-6211-4762-8FFD-9CED43E6D828}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0119CE52-6211-4762-8FFD-9CED43E6D828}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0119CE52-6211-4762-8FFD-9CED43E6D828}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0119CE52-6211-4762-8FFD-9CED43E6D828}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
